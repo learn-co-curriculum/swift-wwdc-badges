@@ -29,3 +29,5 @@ The list of speakers for your conference has been finalized. Your conference spe
         2014-05-28 19:04:31.905 WWDCBadges[75229:303] Hello, my name is Linus.
         2014-05-28 19:04:31.906 WWDCBadges[75229:303] Hello, my name is Wozniak.
         Program ended with exit code: 0
+
+<a href='https://learn.co/lessons/swift-wwdc-badges' data-visibility='hidden'>View this lesson on Learn.co</a>
